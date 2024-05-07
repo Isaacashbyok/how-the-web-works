@@ -1,0 +1,11 @@
+Part one : 
+
+- HTTP is hypertext transfer protocol. Determines how data is recieved or sent
+- A URL is Uniform Resource Locator. It is an address on the Internet
+- DNS is Domain Name System, it converts URLs into an IP address
+- A query string allows you to pass key value pairs into a URL
+- GET is used to get data from a server, POST is used to send data to a server
+- HTTP request is a request from a client to a server following HTTP protocol
+- HTTP response is the response from the server following HTTP protocol
+- HTTP headers give information about the request. Some examples of requests would be host, accept, cookie. Examples of responses would be content-type, last-modified.
+-When you type a URL into a browser, your browser uses DNS to convert the URL into an IP, then the browser makes a request to that IP, the server responds, the browser makes a DOM from the provided HTML, and then the browser makes separate HTTP requests for all the resources within the HTML such as images, javascript, etc. 
